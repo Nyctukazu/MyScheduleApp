@@ -1,0 +1,112 @@
+{
+	"Monday": [
+		{ 
+			"Subject": "Quantitative Methods with Modeling and Simulation", 
+			"startTime": "9:00",
+			"endTime": "12:00",
+			"Faculty": null,
+			"Abbrev": "QMMS"
+		},
+		{
+			"Subject": "Business Intelligence", 
+			"startTime": "13:00",
+			"endTime": "16:00",
+			"Faculty": "Lipardo Jr., Fernando",
+			"Abbrev": "BI"
+		},
+		{
+			"Subject": "Network Administration", 
+			"startTime": "16:30",
+			"endTime": "19:30",
+			"Faculty": null,
+			"Abbrev": "NetAdmin"
+		}
+	],
+	"Tuesday": [
+		{
+			"Subject": "Web Development", 
+			"startTime": "7:30",
+			"endTime": "10:30",
+			"Faculty": "Apsay, Jonnalyn",
+			"Abbrev": "WebDev"
+		},
+		{
+			"Subject": "Systems Administration and Maintenance", 
+			"startTime": "13:00",
+			"endTime": "16:00",
+			"Faculty": "Bautista, Marc Anthony",
+			"Abbrev": "SysAdmin"
+		},
+		{
+			"Subject": "Network Administration",
+			"startTime": "16:30",
+			"endTime": "18:30",
+			"Faculty": null,
+			"Abbrev": "NetAdmin"
+		}
+	],
+	"Wednesday": [
+	
+	],
+	"Thursday": [
+		{
+			"Subject": "Business Intelligence", 
+			"startTime": "7:30",
+			"endTime": "9:30",
+			"Faculty": null,
+			"Abbrev": "BI"
+		},
+		{
+			"Subject": "Human Computer Interaction", 
+			"startTime": "11:30",
+			"endTime": "14:30",
+			"Faculty": null,
+			"Abbrev": "HCI"
+		},
+		{
+			"Subject": "PATHFIT4", 
+			"startTime": "16:30",
+			"endTime": "18:30",
+			"Faculty": null,
+			"Abbrev": "PATHFIT4"
+		},
+		{
+			"Subject": "Web Development", 
+			"startTime": "19:00",
+			"endTime": "21:00",
+			"Faculty": null,
+			"Abbrev": "WebDev"
+		}
+	],
+	"Friday": [
+	
+	],
+	"Saturday": [
+		{
+			"Subject": "Information Management", 
+			"startTime": "7:30",
+			"endTime": "12:30",
+			"Faculty": null,
+			"Abbrev": "InfoMan"
+		},
+		{
+			"Subject": "Systems Administration and Maintenance", 
+			"startTime": "13:00",
+			"endTime": "15:00",
+			"Faculty": null,
+			"Abbrev": "SysAdmin"
+		},
+		{
+			"Subject": "Object Oriented Programming", 
+			"startTime": "15:30",
+			"endTime": "20:30",
+			"Faculty": null,
+			"Abbrev": "OOP"
+		}
+	],
+	"Sunday": [
+
+	]
+
+
+}
